@@ -19,7 +19,7 @@ This project demonstrates how to interact with the Stripe API to create payment 
 
 ## Requirements
 
-- Python 3.6 or higher
+- Python 3.8 or higher
 - `requests` library
 - Valid Stripe API credentials
 
