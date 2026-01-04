@@ -143,7 +143,9 @@ Copyright (c) 2026 Gun Park | @GauZann
 
 ## Support
 
-For issues, questions, or contributions, please open an issue on the GitHub repository.
+For issues, questions, or contributions:
+- Open an issue on the GitHub repository
+- Contact: sumitduster8@gmail.com
 
 ## Disclaimer
 
