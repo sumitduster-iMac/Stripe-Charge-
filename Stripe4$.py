@@ -28,7 +28,7 @@ def run_charge(card_details):
         'billing_details[address][city]': 'Hivug',
         'billing_details[address][line1]': 'New',
         'billing_details[address][line2]': 'York',
-        'billing_details[email]': 'khatrieex@gmail.com',
+        'billing_details[email]': 'sumitduster8@gmail.com',
         'billing_details[name]': 'Diwas Khatri',
         'billing_details[phone]': '875444',
         'type': 'card',
@@ -82,7 +82,7 @@ def run_charge(card_details):
         'cartId': cart_id,
         'billingAddress': {'countryId': 'AU', 'regionId': '609', 'street': ['New', 'York'], 'telephone': '875444', 'postcode': '1234', 'city': 'Hivug', 'firstname': 'Diwas', 'lastname': 'Khatri '},
         'paymentMethod': {'method': 'stripe_payments', 'additional_data': {'payment_method': payment_method_id}},
-        'email': 'khatrieex@gmail.com',
+        'email': 'sumitduster8@gmail.com',
     }
 
     try:
