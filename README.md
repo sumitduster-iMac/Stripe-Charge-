@@ -137,7 +137,8 @@ Copyright (c) 2026 Gun Park | @GauZann
 
 ## Credits
 
-- **Author:** @diwazz
+- **Script Author:** @diwazz
+- **Copyright Holder:** Gun Park | @GauZann
 - **Repository:** [Stripe-Charge-](https://github.com/sumitduster-iMac/Stripe-Charge-)
 
 ## Support
